@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="btlltm-tcp-server">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/btlltm-tcp-server" />
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-j-8.0.31.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/btlltm-tcp-server/src" />
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-j-8.0.31-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

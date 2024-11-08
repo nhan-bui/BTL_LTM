@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="BTL_LTM-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-8.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-j-8.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-j-8.0.31.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-j-8.0.31-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
